@@ -10,4 +10,8 @@ Facial detection is carried out to obtain facial expression using an in-built py
 Data mining algorithms such as Sampling and Ensembling techniques are used to improve accuracy of the trained model. SVM model obtained an accuracy of 78% against testing dataset. …..(dynamic accuracy)
 
 ## Applications
-Based on this project we have developed two working applications for obtaining real-time feedback. The first application detects the genre of the song with the help of facial expression of the end-user while he/she is listening to song. The other application interprets the category of news by reading the facial expression of the user. Both these applications give us genuine real-time feedback.
+Based on this project we have developed two working applications for obtaining real-time feedback. 
+- ***Song Detection:***\
+The first application detects the genre of the song with the help of facial expression of the end-user while he/she is listening to song. 
+- ***News Reading Expression:***\
+The other application interprets the category of news by reading the facial expression of the user. Both these applications give us genuine real-time feedback.
